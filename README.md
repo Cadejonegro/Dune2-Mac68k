@@ -46,7 +46,7 @@ These milestones do **not** mean all missions, factions, AI behaviors, or gamepl
 
 In parallel with the gameplay prototype, we developed a **separate experimental Dune II introduction/cinematic workstream** (Stages 16B, 16C, 16D, and 16M). It explored original-intro scene playback, palette handling, timed subtitles, narration, audio timing, and house-specific sound effects. Later local milestones include **Stage16D6-9** (narration/phrase corrections) and **Stage16M11** (house-specific effects).
 
-**This work is not part of the published R4-P2 gameplay build.** The Stage 16 source is being audited before a separate source-only publication because some local builds contain extracted commercial audio and animation assets, including data embedded in headers. We will not distribute those assets. Cinematic behavior and hardware compatibility also require further verification.
+**This work is not part of the published R4-P2 gameplay build.** The [Stage16M11 cinematic source](cinematics/Stage16M11/) is now published separately. Its 19 original dialogue strings were removed from the source-only publication; subtitles are optionally loaded from a locally supplied `INTROTXT.DAT`. Original commercial animation and audio assets are not included. The source-only build compiles with Retro68, but the modified subtitle loader and complete cinematic still require emulator and physical IIci playback verification. Asset-preparation instructions are not yet complete.
 
 ## Current limitations and help wanted
 
