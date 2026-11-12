@@ -17,3 +17,35 @@ build-*/
 *.SHP
 *.pre-*
 *.log
+
+# Stage 16 cinematic: extracted/converted commercial game data
+*.FRM
+*.frm
+*.PAL
+*.pal
+*.DAT
+*.dat
+*.AUD
+*.aud
+*.MID
+*.mid
+*.MUS
+*.mus
+*.WAV
+*.wav
+*.VOC
+*.voc
+*.WSA
+*.wsa
+*.CPS
+*.cps
+*.ICN
+*.icn
+*.SHP
+*.shp
+*.PAK
+*.pak
+# Generated audio sample headers (may embed copyrighted recordings)
+IntroSamples.h
+# Keep generated asset folders out of source-only publication
+**/assets/INTROVOC/
