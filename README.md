@@ -42,6 +42,12 @@ The project has advanced beyond a simple proof of concept:
 
 These milestones do **not** mean all missions, factions, AI behaviors, or gameplay systems are complete or fully validated. Some features work in the emulator but fail on the physical machine.
 
+## Separate Stage 16 cinematic work
+
+In parallel with the gameplay prototype, we developed a **separate experimental Dune II introduction/cinematic workstream** (Stages 16B, 16C, 16D, and 16M). It explored original-intro scene playback, palette handling, timed subtitles, narration, audio timing, and house-specific sound effects. Later local milestones include **Stage16D6-9** (narration/phrase corrections) and **Stage16M11** (house-specific effects).
+
+**This work is not part of the published R4-P2 gameplay build.** The Stage 16 source is being audited before a separate source-only publication because some local builds contain extracted commercial audio and animation assets, including data embedded in headers. We will not distribute those assets. Cinematic behavior and hardware compatibility also require further verification.
+
 ## Current limitations and help wanted
 
 1. **Infantry rendering:** infantry appear in Basilisk II but remain invisible on the physical IIci.
