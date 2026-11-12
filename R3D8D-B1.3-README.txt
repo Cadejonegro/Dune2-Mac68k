@@ -1,0 +1,5 @@
+R3D8D-B1.3 Factory Key Fix
+
+The legacy Stage 15O-L.2 timer snapshot intercepted L before the factory handler.
+Timer snapshot now uses Shift+D (uppercase D). L reaches the existing B1.2 factory handler.
+No tech, mission, or production logic changed.

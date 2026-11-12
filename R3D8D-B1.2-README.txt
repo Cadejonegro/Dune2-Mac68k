@@ -1,0 +1,4 @@
+R3D8D-B1.2 source diagnostics. Based on user-provided B1.1 ZIP.
+KEY codes: 0=not pressed, 1=no player yard, 2=yard busy, 3=tech locked, 4=engine rejected, 5=engine accepted.
+Draws two factory diagnostics after harvester diagnostics, before profiler.
+No OpenDUNE technology rules modified.

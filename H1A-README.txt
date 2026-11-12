@@ -1,0 +1,1 @@
+R3D8D-H1A Harvester diagnostics only. Based on UI1.1 source. Mission 2 Harvester state lines at y=397..449. No simulation/harvesting/production logic changes. Window must expose bottom panel (up to y=472). Preserve UI1.1 as rollback.

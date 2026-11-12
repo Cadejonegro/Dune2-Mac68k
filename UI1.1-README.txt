@@ -1,0 +1,1 @@
+UI1.1 selection sync: invalidate sidebar on selection changes and on one-second HUD refresh. Includes Retro68 pascal identifier fix. No gameplay changes.

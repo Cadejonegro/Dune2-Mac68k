@@ -1,0 +1,1 @@
+R3D7P1 source instrumentation. Display cycles 8 pages; P1 percent and ms pages every 8 seconds. 10s measurement windows. Percent is wall-clock occupancy, not CPU utilization. Sound manager asynchronous work not included. Compare with R3D7S2.
